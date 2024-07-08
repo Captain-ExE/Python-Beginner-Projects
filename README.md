@@ -1,2 +1,2 @@
 # Python-Beginner-Projects
-Here you will find all the beginner python project I did through learning Python. 
+Here you will find all the beginner Python projects I did while learning Python.
