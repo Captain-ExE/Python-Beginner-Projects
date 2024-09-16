@@ -17,6 +17,7 @@ def check_answer(user_input, a, b):
 
 # Display art
 print(logo)
+print("--- Welcome to the Higher Lower Game ---\n\n")
 score = 0
 is_continue = True
 account_b = random.choice(data)
